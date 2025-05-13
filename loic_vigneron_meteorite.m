@@ -1,7 +1,4 @@
-% impact_metamorphic_model.m
-% Full MATLAB/Octave code for asteroid impact P–T simulation with enhanced shock
-% capturing, Tillotson EOS, artificial viscosity, plastic heating, AMR stub, and
-% heat diffusion via Crank–Nicolson.
+
 
 %% --- Parameters & Domain Setup ---
 clear; clc;

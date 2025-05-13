@@ -1,4 +1,9 @@
 # Meteorite-impact-metamorphic-reaction
+
+Not finished yet!!!!!!!!!!!!! 
+(dont use for real simulation)
+
+
 2D Meteorite Impact Simulation with Improved Physics
 This MATLAB project simulates a 2D meteorite impact event, including dynamic wave propagation with improved Perfectly Matched Layer (PML) absorption, heat conduction, and the mapping of metamorphic facies. The simulation also computes lithostatic pressure effects and provides evolving visualization and progress feedback via an enhanced waitbar.
 Table of Contents
